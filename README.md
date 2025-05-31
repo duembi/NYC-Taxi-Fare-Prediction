@@ -6,7 +6,7 @@ This project applies a full data science pipeline to predict taxi fare amounts i
 
 ## 📁 Included Files
 - `NYCTaxi.ipynb` – The full notebook with preprocessing, EDA, feature engineering and model evaluation
-- `COM2502_Project_Report.pdf` – Final project report 
+- `NYC_Taxi_Fare_Analysis_Report.pdf` – Final project report 
 - `NYC_TAXI_Presentation.pptx` – Project slides
 - `nyc_weather_2024.csv` – Weather data used for integration
 - `taxi_zone_lookup.csv` – Location ID to NYC zone mapping
