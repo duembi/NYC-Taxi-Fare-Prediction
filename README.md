@@ -1,5 +1,3 @@
-# NYC-Taxi-Fare-Prediction
-
 # NYC Taxi Fare Prediction 🚕📊
 
 This project applies a full data science pipeline to predict taxi fare amounts in New York City using TLC yellow taxi data from January 2024, integrated with NYC weather conditions.
